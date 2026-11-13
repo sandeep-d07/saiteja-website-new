@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Saiteja Infotech Website
 
 Modern company website for Saiteja Infotech Private Limited.
@@ -245,3 +246,6 @@ A simpler first production deployment can use a single EC2 instance for the Spri
 - Add backups, monitoring and operational documentation.
 
 Do not treat the AWS architecture above as already deployed; it is the planned target.
+=======
+# saiteja-website-new-design
+>>>>>>> 03317102e3cd7f03271622edf4cfac14909260ba
